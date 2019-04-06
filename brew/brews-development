@@ -1,0 +1,18 @@
+install diff-so-fancy
+install git-extras
+install icdiff
+install node
+install pinentry
+install yarn
+cask install adobe-creative-cloud
+cask install arduino
+cask install cathode
+cask install cyberduck
+cask install dash
+cask install dbeaver-community
+cask install geektool
+cask install gpg-suite
+cask install nwjs
+cask install sequel-pro
+cask install virtualbox
+cask install visual-studio-code

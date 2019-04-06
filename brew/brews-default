@@ -1,0 +1,39 @@
+tap homebrew/cask
+tap homebrew/core
+tap homebrew/services
+install bat
+install cask
+install cowsay
+install ddate
+install fortune
+install fzf
+install midnight-commander
+install mtr
+install nano
+install progress
+install ranger
+install reattach-to-user-namespace
+install ripgrep 
+install sl 
+install thefuck
+install tmux
+install tree
+install wget
+cask install qlcolorcode
+cask install qlmarkdown
+cask install qlstephen
+cask install quicklook-csv
+cask install quicklook-json
+cask install adapter
+cask install android-file-transfer
+cask install appzapper
+cask install balenaetcher
+cask install bitbar
+cask install clipgrab
+cask install google-chrome
+cask install iterm2
+cask install mucommander
+cask install spectacle
+cask install the-unarchiver
+cask install vlc
+cask install yujitach-menumeters

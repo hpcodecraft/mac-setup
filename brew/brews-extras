@@ -1,0 +1,4 @@
+cask install gog-galaxy
+cask install mediathekview
+cask install steam
+cask install telegram
