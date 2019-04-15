@@ -48,5 +48,9 @@ done
 echo 'Installing global ruby gems...'
 sudo gem install lolcat
 
+echo 'Installing cheat.sh cli client...'
+curl https://cht.sh/:cht.sh | tee /usr/local/bin/cht.sh
+chmod a+x /usr/local/bin/cht.sh
+
 echo 'Configuring OS X...'
 ./osx/settings.sh
