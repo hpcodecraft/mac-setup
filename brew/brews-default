@@ -5,6 +5,7 @@ install bat
 install cask
 install cowsay
 install ddate
+install exa
 install fortune
 install fzf
 install midnight-commander
@@ -18,6 +19,7 @@ install sl
 install thefuck
 install tmux
 install tree
+install wifi-password
 install wget
 cask install qlcolorcode
 cask install qlmarkdown
@@ -28,6 +30,7 @@ cask install adapter
 cask install android-file-transfer
 cask install appzapper
 cask install balenaetcher
+cask install bartender
 cask install bitbar
 cask install clipgrab
 cask install google-chrome

@@ -1,5 +1,6 @@
 install diff-so-fancy
 install git-extras
+install highlight
 install icdiff
 install node
 install pinentry
