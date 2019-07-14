@@ -1,4 +1,5 @@
 cask install gog-galaxy
 cask install mediathekview
+cask install openemu
 cask install steam
 cask install telegram
