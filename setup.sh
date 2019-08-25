@@ -15,9 +15,6 @@ fi
 echo "Installing XCode CLI things"
 xcode-select --install
 
-echo 'Installing Antigen...'
-git clone https://github.com/zsh-users/antigen.git ~/.antigen
-
 # todo: setup dotfiles
 
 # Check for Homebrew,
@@ -47,6 +44,9 @@ done
 
 echo 'Installing global ruby gems...'
 sudo gem install lolcat
+
+echo 'Installing global node modules...'
+npm -g install fkill-cli
 
 echo 'Installing cheat.sh cli client...'
 curl https://cht.sh/:cht.sh | tee /usr/local/bin/cht.sh

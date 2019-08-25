@@ -8,6 +8,9 @@ install ddate
 install exa
 install fortune
 install fzf
+install getantibody/tap/antibody
+install m-cli
+install mas
 install midnight-commander
 install mtr
 install nano
