@@ -45,8 +45,8 @@ done
 echo 'Installing global ruby gems...'
 sudo gem install lolcat
 
-echo 'Installing global node modules...'
-npm -g install fkill-cli
+echo 'Installing global NPM modules'
+npm install --global fkill-cli
 
 echo 'Installing cheat.sh cli client...'
 curl https://cht.sh/:cht.sh | tee /usr/local/bin/cht.sh

@@ -1,6 +1,7 @@
 tap homebrew/cask
 tap homebrew/core
 tap homebrew/services
+tap eddieantonio/eddieantonio
 install bat
 install cask
 install cowsay
@@ -9,8 +10,9 @@ install exa
 install fortune
 install fzf
 install getantibody/tap/antibody
-install m-cli
+install imgcat
 install mas
+install m-cli
 install midnight-commander
 install mtr
 install nano
@@ -42,4 +44,4 @@ cask install mucommander
 cask install spectacle
 cask install the-unarchiver
 cask install vlc
-cask install yujitach-menumeters
+cask install menumeters
