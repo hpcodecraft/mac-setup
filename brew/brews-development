@@ -1,3 +1,4 @@
+install devd
 install diff-so-fancy
 install git-extras
 install highlight
